@@ -1,7 +1,5 @@
 package net.wallethunter;
 
-import net.wallethunter.key.WalletKey;
-
 import java.io.*;
 import java.security.NoSuchAlgorithmException;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package net.wallethunter.key;
+package net.wallethunter;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
